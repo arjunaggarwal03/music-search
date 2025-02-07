@@ -1,0 +1,11 @@
+django==4.2.7
+djangorestframework==3.14.0
+torch==2.1.1
+torchaudio==2.1.1
+transformers==4.35.2
+librosa==0.10.1
+pinecone-client==2.2.4
+numpy==1.24.3
+soundfile==0.12.1
+python-dotenv==1.0.0
+django-cors-headers==4.3.0 
